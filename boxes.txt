@@ -103,7 +103,7 @@ color: orange;
 
 
 <div class="flex-container">
-  <div><h3>DashBoard</h3>
+  <div><h3 style="font-size: 45p">DashBoard</h3>
   <p>Input Text</p>
   <input type="button" class="button" value=" More Info"></div>
   <div><h3>Check Books</h3>
